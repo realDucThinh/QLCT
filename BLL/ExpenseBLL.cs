@@ -4,6 +4,7 @@ using ExpenseApp.DAL;
 namespace ExpenseApp.BLL
 {
     //Hé lô anh em!
+    //Hé lô lần 2 nè anh em!
     public class ExpenseBLL
     {
         private ExpenseDAL dal = new ExpenseDAL();
