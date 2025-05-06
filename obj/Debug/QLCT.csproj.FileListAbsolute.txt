@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\.NET\QLCT\bin\Debug\QLCT.exe.config
+C:\Users\ACER\Desktop\.NET\QLCT\bin\Debug\QLCT.exe
+C:\Users\ACER\Desktop\.NET\QLCT\bin\Debug\QLCT.pdb
+C:\Users\ACER\Desktop\.NET\QLCT\obj\Debug\QLCT.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\.NET\QLCT\obj\Debug\QLCT.Properties.Resources.resources
+C:\Users\ACER\Desktop\.NET\QLCT\obj\Debug\QLCT.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\.NET\QLCT\obj\Debug\QLCT.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.NET\QLCT\obj\Debug\QLCT.exe
+C:\Users\ACER\Desktop\.NET\QLCT\obj\Debug\QLCT.pdb
+C:\Users\ACER\Desktop\.NET\QLCT\obj\Debug\ExpenseApp.Form1.resources
